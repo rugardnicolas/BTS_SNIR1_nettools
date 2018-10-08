@@ -9,6 +9,7 @@ Pour chaque entrée de la liste, nous allons lancer un ping permettant
 de vérifier si la machine est active ou pas.
 Le résultat sera affiché à l'écran de façon claire, et un fichier
 de compte rendu devra être généré.
+version de rugardni
 
 .. _Google Python Style Guide:
    http://google.github.io/styleguide/pyguide.html
